@@ -1,0 +1,11 @@
+{
+  "name": "DeathStare",
+  "symbol": "DTHS",
+  "description": "A moeda anti-fiduciária. Supply fixo. Nenhum banco central. Olhar mortal.",
+  "image": "https://raw.githubusercontent.com/rcm2005/DTHS_metadados/main/IMG_0027.jpeg",
+  "attributes": [
+    { "trait_type": "Origin", "value": "Immutable Mint" },
+    { "trait_type": "Supply", "value": "600,000,000 DTHS" },
+    { "trait_type": "Creator", "value": "GPe3q9byHGb21dERAwiyww74qXmAi99rB5Zz5Tr5Hw5r" }
+  ]
+}
