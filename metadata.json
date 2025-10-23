@@ -1,11 +1,24 @@
 {
   "name": "DeathStare",
-  "symbol": "DTHS",
-  "description": "A moeda anti-fiduciária. Supply fixo. Nenhum banco central. Olhar mortal.",
+  "symbol": "DTH$",
+  "description": "The gaze that makes you sell before the pump.",
   "image": "https://raw.githubusercontent.com/rcm2005/DTHS_metadados/main/IMG_0027.jpeg",
   "attributes": [
-    { "trait_type": "Origin", "value": "Immutable Mint" },
-    { "trait_type": "Supply", "value": "600,000,000 DTHS" },
-    { "trait_type": "Creator", "value": "GPe3q9byHGb21dERAwiyww74qXmAi99rB5Zz5Tr5Hw5r" }
-  ]
+    { "trait_type": "Origin", "value": "Solana" },
+    { "trait_type": "Essence", "value": "Fear and FOMO" },
+    { "trait_type": "Supply", "value": "600,000,000" }
+  ],
+  "collection": {
+    "name": "DeathStare Collection",
+    "family": "Solana Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rcm2005/DTHS_metadados/main/IMG_0027.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
